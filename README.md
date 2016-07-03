@@ -1,6 +1,6 @@
 # R.Visualizations
 
-Download the Report.html or view it online: http://htmlpreview.github.io/?https://github.com/anthonyhojun/R.Visualizations/blob/master/Report.html
+Download Report.html to view the data process
 
 Visualisation of shots taken by retired NBA star Kobe Bryant 
 
